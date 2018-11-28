@@ -12,6 +12,6 @@ int main()
 	c = a + b;
 	cout << "Sum of the numbers: " << c << endl;
 
-	
+	system (" pause ");
 	return 0;
 }
